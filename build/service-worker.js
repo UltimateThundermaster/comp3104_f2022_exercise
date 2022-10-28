@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/UltimateThundermaster/comp3104_f2022_exercise/precache-manifest.76933d1df96e921d73993b26dc23952f.js"
+  "/UltimateThundermaster/comp3104_f2022_exercise/precache-manifest.db6a50860d0cc02b7cbe3212e98d5b4b.js"
 );
 
 workbox.clientsClaim();
